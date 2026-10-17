@@ -2,4 +2,4 @@
 
 Website and privacy policy of Lumi: Companion for YGO, an Android app to archive a Yu-Gi-Oh! card collection.
 
-https://thiru-sama.github.io/pandora-app/
+https://thiru-sama.github.io/lumi-app/
