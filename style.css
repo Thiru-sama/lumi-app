@@ -46,7 +46,7 @@ header.top {
 .lang button[aria-pressed="true"] { background: var(--accent); color: var(--on-accent); border-color: var(--accent); font-weight: 600; }
 
 .hero { display: grid; grid-template-columns: 1fr auto; gap: 32px; align-items: center; padding: 40px 0 24px; }
-.hero h1 { font-size: clamp(36px, 7vw, 56px); line-height: 1.1; margin: 0 0 8px; letter-spacing: 2px; }
+.hero h1 { font-size: clamp(32px, 5.5vw, 46px); line-height: 1.15; margin: 0 0 8px; letter-spacing: 2px; }
 .eyebrow { color: var(--accent); letter-spacing: 3px; font-size: 13px; font-weight: 600; text-transform: uppercase; margin: 0 0 12px; }
 .lead { color: var(--text-2); font-size: 19px; margin: 0 0 24px; max-width: 32em; }
 .hero img { width: min(280px, 38vw); height: auto; filter: drop-shadow(0 0 24px rgba(211, 188, 142, 0.35)); }
